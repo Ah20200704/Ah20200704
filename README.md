@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex.
+- 👀 I’m interested in Computer Science and Cyber Security.
+- 🌱 I’m currently learning C#.
+- 📫 How to reach me ... Gmail: Huedpro.ceo@gmail.com, 305-833-1310
